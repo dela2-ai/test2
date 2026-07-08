@@ -1,0 +1,81 @@
+* {
+	margin: 10;
+	padding:10;
+	box-sizing: content-box;
+	bo
+	font-family: Arial,sans-serif;
+}
+h2{
+	text-align: center;
+}
+p{
+text-align: center;
+}
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right,#1e5799,#2ecc71);
+	shape-margin: initial;
+
+}
+title{
+	position: absolute;
+	top: 40px;
+	width: 100%;
+	text-align:center ;
+	color: white;
+	font-size: 28px;
+	font-weight: bold;
+}
+container{
+	width: 350px;
+	padding: 30px;
+	border-radius: 10px;
+	background: linear-gradient(to right,);
+	color: #fff;
+	box-shadow: 0 8px 20px;
+	rgba(0,0,0,0.3);
+}
+container h2{
+text-align: center;
+}
+container p {
+	text-align: center;
+	font-size: 14px;
+	color: #ccc;
+margin-bottom: 20px;
+}
+label{
+	display: block;
+	margin: 10px o 5px;
+	font-size: 14px;
+}
+input[type="text"],
+input[type="password"]
+{
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+	margin-bottom: 10px 0;
+}
+button{
+	width: 100px;
+	padding: 12px;
+	border: none;
+	background: black;
+	color: white;
+	cursor: pointer;
+	text-align: center;
+}
+
+register{
+	color: #66c2ff;
+	text-decoration: none;
+	text-align: center;
+}
+register a{
+	text-align: center;
+}
